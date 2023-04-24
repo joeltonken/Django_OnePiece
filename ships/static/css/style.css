@@ -6,10 +6,24 @@
 }
 
 body{
-    background-color: rgb(185, 36, 136);
-    color: azure;
+
+    background-color:rgb(255, 136, 0);
+    color: bisque;
 
 }
+
+footer {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
 .navbar{
     background-color: black;
     color: white;
